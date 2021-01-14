@@ -1,3 +1,3 @@
 ## Proyecto Natflix UPV
 
-Aquí se obtendrán las imagenes dee los diferentes documentos asaociados
+Aquí se obtendrán las imagenes de los diferentes documentos asociados
