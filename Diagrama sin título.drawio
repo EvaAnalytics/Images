@@ -1,48 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T09:39:05.243Z" agent="5.0 (X11; Ubuntu)" etag="WZYJzza0IwDLeHKBOLI7" version="21.0.8" type="github">
-  <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="1124" dy="615" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-02-12T15:37:18.360Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="21.1.9" etag="I41xnvJs8-doVMBcufXl" type="github">
+  <diagram name="Página-1" id="yzFglxlydZhmkPrT64hm">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="1000" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-5" value="Políticos-Legales" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-6" value="Socio-cultural" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="573" y="340" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-7" value="Económicos" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="347" y="425" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-8" value="Tecnológico" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="800" y="425" width="160" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="190" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="417" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="643" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="870" y="395" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4ec97bd9e5d20128-14" value="&lt;h1 align=&quot;center&quot;&gt;P&lt;/h1&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Regulación de precios&lt;/li&gt;&lt;li&gt;Regulación de comercio exterior&lt;br&gt;&lt;/li&gt;&lt;li&gt;Permisos ambientales &lt;br&gt;&lt;/li&gt;&lt;li&gt;Políticas de importación &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="82" y="430" width="241.5" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="ACtFL_JrIMCPYO-WyjFq-1" value="&lt;h1 align=&quot;center&quot;&gt;&amp;nbsp;&amp;nbsp; E&lt;br&gt;&lt;/h1&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Ciclos económicos&lt;br&gt;&lt;/li&gt;&lt;li&gt;Políticas económicas&lt;br&gt;&lt;/li&gt;&lt;li&gt;Tipos de cambio&lt;br&gt;&lt;/li&gt;&lt;li&gt;Tipos de intereses &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="230" width="194.75" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="ACtFL_JrIMCPYO-WyjFq-2" value="&lt;h1 align=&quot;center&quot;&gt;&amp;nbsp;S&lt;br&gt;&lt;/h1&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Demografía&lt;/li&gt;&lt;li&gt;Estilos de vida&lt;br&gt;&lt;/li&gt;&lt;li&gt;Nivel de educación &lt;br&gt;&lt;/li&gt;&lt;li&gt;Patrones culturales &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="421" width="177.5" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="ACtFL_JrIMCPYO-WyjFq-3" value="&lt;h1 align=&quot;center&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; T&lt;br&gt;&lt;/h1&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Desarrollo&lt;/li&gt;&lt;li&gt;Actualización&lt;br&gt;&lt;/li&gt;&lt;li&gt;Innovación &lt;br&gt;&lt;/li&gt;&lt;li&gt;Investigación &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="797" y="239" width="158" height="146" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
